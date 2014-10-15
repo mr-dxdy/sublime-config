@@ -3,6 +3,7 @@
 	"installed_packages":
 	[
 		"BEMHTML",
+		"Better CoffeeScript",
 		"CUDA C++",
 		"LiveStyle",
 		"Package Control"
