@@ -1,7 +1,9 @@
 {
 	"font_size": 10,
+	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
+		"Markdown",
 		"Vintage"
 	],
 	"tab-size": 2,
