@@ -4,10 +4,15 @@
 	[
 		"BEMHTML",
 		"Better CoffeeScript",
+		"Color Highlighter",
+		"ColorPicker",
 		"CUDA C++",
+		"EditorConfig",
 		"EmberScript",
 		"LESS",
 		"LiveStyle",
-		"Package Control"
+		"Markdown Preview",
+		"Package Control",
+		"Zen Tabs"
 	]
 }
