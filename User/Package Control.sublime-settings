@@ -1,5 +1,8 @@
 {
 	"auto_upgrade_last_run": null,
+	"in_process_packages":
+	[
+	],
 	"installed_packages":
 	[
 		"BEMHTML",
@@ -16,6 +19,7 @@
 		"LiveStyle",
 		"Markdown Preview",
 		"Package Control",
+		"RuboCop",
 		"Sass",
 		"Seti_UI",
 		"Stylus",
