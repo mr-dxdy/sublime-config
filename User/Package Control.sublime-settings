@@ -1,5 +1,6 @@
 {
 	"auto_upgrade_last_run": null,
+	"auto_upgrade": false,
 	"in_process_packages":
 	[
 	],
