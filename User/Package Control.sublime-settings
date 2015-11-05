@@ -7,6 +7,7 @@
 	"installed_packages":
 	[
 		"All Autocomplete",
+		"AutoFileName",
 		"Babel",
 		"BEMHTML",
 		"Better CoffeeScript",
