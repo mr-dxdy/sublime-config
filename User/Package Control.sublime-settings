@@ -6,6 +6,7 @@
 	],
 	"installed_packages":
 	[
+		"AdvancedNewFile",
 		"All Autocomplete",
 		"AutoFileName",
 		"Babel",
