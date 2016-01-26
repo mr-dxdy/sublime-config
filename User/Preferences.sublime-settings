@@ -5,7 +5,8 @@
 	"ignored_packages":
 	[
 		"Vintage",
-		"Markdown"
+		"Markdown",
+		"JavaScript"
 	],
 	"tab-size": 2,
 	"theme": "Seti.sublime-theme",
