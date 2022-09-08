@@ -54,7 +54,7 @@ sublime_config_install()
     git clone https://github.com/mr-dxdy/sublime-config.git
   fi
   
-  cd ~/.config/sublime-text-3/Packages/ && mv User UserOld
+  cd ~/.config/sublime-text/Packages/ && mv User UserOld
   ln -s ~/.settings/sublime-config/User
 
   printf "%s\n" "Sublime-config installed."
