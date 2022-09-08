@@ -1,5 +1,5 @@
 {
-	"auto_upgrade": false,
+	"auto_upgrade": true,
 	"auto_upgrade_last_run": null,
 	"in_process_packages":
 	[
@@ -26,7 +26,6 @@
 		"JSHint",
 		"LESS",
 		"LiveStyle",
-		"Markdown Preview",
 		"Package Control",
 		"Rails Partial",
 		"RailsGoToSpec",
@@ -36,6 +35,8 @@
 		"Seti_UI",
 		"Stylus",
 		"Terminal",
-		"Zen Tabs"
-	]
+		"Zen Tabs",
+		"MarkdownPreview"
+	],
+	"bootstrapped": true,
 }
